@@ -2,7 +2,7 @@
 
 ## Description
 
-Student manager using Java.
+Basic student manager using Java.
 
 ## Functions
 
